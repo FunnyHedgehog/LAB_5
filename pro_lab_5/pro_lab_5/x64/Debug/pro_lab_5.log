@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\костя\source\repos\parallel-distributed-calculations\pro_lab_5\pro_lab_5\source.cpp(42): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\костя\source\repos\parallel-distributed-calculations\pro_lab_5\pro_lab_5\source.cpp(55): warning C4101: maxInLessThanNums: неиспользованная локальная переменная
+  pro_lab_5.vcxproj -> C:\Users\Костя\source\repos\Parallel-Distributed-Calculations\pro_lab_5\x64\Debug\pro_lab_5.exe
